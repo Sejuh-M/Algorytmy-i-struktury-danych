@@ -1,0 +1,5 @@
+Poczatek
+Wartosc kroku;Tworzenie listy z niepowtarzajacymi sie elementami;;;;;;Srednia;Wyszukiwanie elementów listy jeden po drugim;;;;;;;Srednia;Usuwanie listy jednokierunkowej;;;;;;;Srednia
+0; 0.000; 0.000; 0.000; 0.000; 0.000; X;0.000; X;0.000; 0.000; 0.000; 0.000; 0.000; X;0.000; X;0.000; 0.000; 0.000; 0.000; 0.000; X;0.000; X;
+1000; 0.139; 0.125; 0.124; 0.115; 0.117; X;0.124; X;0.120; 0.122; 0.122; 0.121; 0.119; X;0.121; X;0.002; 0.002; 0.002; 0.002; 0.002; X;0.002; X;
+2000; 0.477; 0.464; 0.460; 0.461; 0.466; X;0.466; X;0.477; 0.477; 0.480; 0.483; 0.481; X;0.480; X;0.004; 0.004; 0.004; 0.003; 0.003; X;0.004; X;

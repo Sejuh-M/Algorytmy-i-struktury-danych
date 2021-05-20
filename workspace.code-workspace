@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "AiSD",
+			"path": "."
+		},
+		{
+			"name": "Testy",
+			"path": "../Testy"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/bin/python3"
+	}
+}
